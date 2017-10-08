@@ -533,3 +533,110 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
 #EXTINF:0,Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+-----GERMAN TV CHANNELS---------
+#EXTINF:0,De:SKY_SPORT_1 – SKY_SPORT_1_DE
+http://s01.iptvsolution.net:80/live?channelId=84&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:SKY_SPORT_2 – SKY_SPORT_2_DE
+http://s01.iptvsolution.net:80/live?channelId=85&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:SKY_BUNDESLIGA – SKY_BUNDESLIGA
+http://s01.iptvsolution.net:80/live?channelId=86&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Uk: SKY SPORT 1 – SKY_SPORT_1_UK
+http://s01.iptvsolution.net:80/live?channelId=87&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Uk: SKY SPORT 2 – SKY_SPORT_2_UK
+http://s01.iptvsolution.net:80/live?channelId=88&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Uk: SKY SPORT 3 – SKY_SPORT_3_UK
+http://s01.iptvsolution.net:80/live?channelId=89&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Uk: SKY SPORT 4 – SKY_SPORT_4_UK
+http://s01.iptvsolution.net:80/live?channelId=90&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Uk: SKY SPORT F1 – SKY_SPORT_F1_UK
+http://s01.iptvsolution.net:80/live?channelId=92&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Uk: BT SPORT 1 – BT_SPORT_1
+http://s01.iptvsolution.net:80/live?channelId=100&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Uk: BT SPORT 2 – BT_SPORT_2
+http://s01.iptvsolution.net:80/live?channelId=101&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Al: SUPER SPORT 1 – SUPER_SPORT_1
+http://s01.iptvsolution.net:80/live?channelId=96&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Al: SUPER SPORT 2 – SUPER_SPORT_2
+http://s01.iptvsolution.net:80/live?channelId=97&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Al: SUPER SPORT 3 – SUPER_SPORT_3
+http://s01.iptvsolution.net:80/live?channelId=98&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Al: SUPER SPORT 4 – SUPER_SPORT_4
+http://s01.iptvsolution.net:80/live?channelId=99&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,FOX SPORT 1 – FOX SPORT 1
+http://stream1.iptvsolution.net:80/live?channelId=172&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,SPORT MIX 1 – SPORT MIX 1
+http://stream1.iptvsolution.net:80/live?channelId=183&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,SPORT MIX 2 – SPORT MIX 2
+http://stream1.iptvsolution.net:80/live?channelId=184&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,
+http://s01.iptvsolution.net:80/live?channelId=102&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,FOX – FOX
+http://s01.iptvsolution.net:80/live?channelId=109&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,FOX_LIFE – FOX LIFE
+http://s01.iptvsolution.net:80/live?channelId=110&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,FOX_CRIME – FOX CRIME
+http://s01.iptvsolution.net:80/live?channelId=111&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,FOX_MOVIES – FOX MOVIES
+http://s01.iptvsolution.net:80/live?channelId=112&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,CINEMAX_1 – CINEMAX 1
+http://s01.iptvsolution.net:80/live?channelId=107&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,CINEMAX_2 – CINEMAX 2
+http://s01.iptvsolution.net:80/live?channelId=108&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,HBO – HBO
+http://s01.iptvsolution.net:80/live?channelId=103&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,HBO 2 – HBO_2
+http://s01.iptvsolution.net:80/live?channelId=104&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,CINESTAR_PREMIERE_1 – CINESTAR PREMIERE 1
+http://s01.iptvsolution.net:80/live?channelId=105&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,CINESTAR_PREMIERE_2 – CINESTAR PREMIERE 2
+http://s01.iptvsolution.net:80/live?channelId=106&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,
+http://s01.iptvsolution.net:80/live?channelId=113&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,E! – E!
+http://s01.iptvsolution.net:80/live?channelId=119&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,24_KITCHEN – 24 KITCHEN
+http://s01.iptvsolution.net:80/live?channelId=120&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,LOV & RIBOLOV – LOV & RIBOLOV
+http://s01.iptvsolution.net:80/live?channelId=118&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,ANIMAL_PLANET – ANIMAL PLANET
+http://s01.iptvsolution.net:80/live?channelId=116&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,HISTORY_CHANNEL – HISTORY CHANNEL
+http://s01.iptvsolution.net:80/live?channelId=114&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,DISCOVERY_CHANNEL – DISCOVERY CHANNEL
+http://s01.iptvsolution.net:80/live?channelId=115&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,NATIONAL GEOGRAPHIC – NATIONAL GEOGRAPHIC
+http://s01.iptvsolution.net:80/live?channelId=117&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,NAT GEO WILD TEST – NAT GEO WILD TEST
+http://stream1.iptvsolution.net:80/live?channelId=186&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,DISCOVERY ID – DISCOVERY ID
+http://stream1.iptvsolution.net:80/live?channelId=164&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,
+http://s01.iptvsolution.net:80/live?channelId=122&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:RTL – De: RTL
+http://stream1.iptvsolution.net:80/live?channelId=152&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:PRO_7 – De: PRO 7
+http://stream1.iptvsolution.net:80/live?channelId=151&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:SKY_HITS – De: SKY HITS
+http://s01.iptvsolution.net:80/live?channelId=126&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:SKY_ACTION – De: SKY ACTION
+http://s01.iptvsolution.net:80/live?channelId=124&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:SKY_CINEMA – De: SKY CINEMA
+http://s01.iptvsolution.net:80/live?channelId=125&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:SKY_COMEDY – De: SKY COMEDY
+http://s01.iptvsolution.net:80/live?channelId=123&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:SKY_ATLANTIC – De: SKY ATLANTIC
+http://s01.iptvsolution.net:80/live?channelId=127&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:SKY_EMOTION – De: SKY EMOTION
+http://s01.iptvsolution.net:80/live?channelId=128&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:DISCOVERY – De: DISCOVERY
+http://stream1.iptvsolution.net:80/live?channelId=135&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:NATIONAL_GEO – De: NATIONAL GEO
+http://s01.iptvsolution.net:80/live?channelId=129&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,De:NATIONAL_GEO_WILD – De: NATIONAL GEO WILD
+http://s01.iptvsolution.net:80/live?channelId=130&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Uk: SKY FAMILY – Uk: SKY FAMILY
+http://s01.iptvsolution.net:80/live?channelId=132&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Uk: SKY ACTION – Uk: SKY ACTION
+http://s01.iptvsolution.net:80/live?channelId=131&uid=1&deviceUser=18admin1&devicePass=18admin1
+#EXTINF:0,Uk: SKY PREMIERE – Uk: SKY PREMIERE
+http://s01.iptvsolution.net:80/live?channelId=133&uid=1&deviceUser=18admin1&devicePass=18admin1
