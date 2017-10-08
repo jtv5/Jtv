@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,100% Automoto (BG)
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0,J TV
+http://167.114.77.191:1935/tvtest/tvtest/playlist.m3u8
 #EXTINF:0,112 Ukraine
 http://app.live.112.events/hls/112hd_mid/index.m3u8
 #EXTINF:0,1Music (Hungary)
@@ -9,18 +11,6 @@ http://stream.1music.hu/stream/1music.m3u8
 http://lw-ntm-live.lwcdn.com/live/amlst:2df87a73-e998-4be4-b469-8e1614976f3c_all/playlist.m3u8
 #EXTINF:0,324 NOTICIES
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:0,3ABN
-http://moiptvus-lh.akamaihd.net/i/3abnlive_1@328342/master.m3u8
-#EXTINF:0,3ABN Dare ot Dream
-http://moiptvus-lh.akamaihd.net/i/d2dlive_1@328342/master.m3u8
-#EXTINF:0,3ABN Francais
-http://moiptvus-lh.akamaihd.net/i/frelive_1@328343/master.m3u8
-#EXTINF:0,3ABN International
-http://moiptvus-lh.akamaihd.net/i/intlive_1@328343/master.m3u8
-#EXTINF:0,3ABN Kids
-http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8
-#EXTINF:0,3ABN Latino
-http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8
 #EXTINF:0,4 Music
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
 #EXTINF:0,A3 Nova
